@@ -1,0 +1,85 @@
+{
+  "transparent": "transparent",
+  "current": "currentColor",
+  "base": [
+    {
+      "white": "#FFFFFF"
+    },
+    {
+      "black": "#141414"
+    }
+  ],
+  "grey": [
+    {
+      "100": "#E9EAF0"
+    },
+    {
+      "200": "#D8DDEB"
+    },
+    {
+      "300": "#BCC6E0"
+    },
+    {
+      "400": "#939DB8"
+    },
+    {
+      "500": "#7C86A3"
+    },
+    {
+      "600": "#616D8F"
+    },
+    {
+      "700": "#535E7A"
+    },
+    {
+      "800": "#313A52"
+    },
+    {
+      "900": "#1B2133"
+    }
+  ],
+  "primary": [
+    {
+      "lighter": "#2E2E80"
+    },
+    {
+      "std": "#141466"
+    },
+    {
+      "darker": "#020233"
+    }
+  ],
+  "secondary": [
+    {
+      "lighter": "#EB8A67"
+    },
+    {
+      "std": "#E06A3F"
+    },
+    {
+      "darker": "#CC5429"
+    }
+  ],
+  "tertiary": [
+    {
+      "lighter": "#FFF199"
+    },
+    {
+      "std": "#FAE664"
+    },
+    {
+      "darker": "#F0D630"
+    }
+  ],
+  "action": [
+    {
+      "lighter": "#5280FF"
+    },
+    {
+      "std": "#275EF5"
+    },
+    {
+      "darker": "#1042CC"
+    }
+  ]
+}

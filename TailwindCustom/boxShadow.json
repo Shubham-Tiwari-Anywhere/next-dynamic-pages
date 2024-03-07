@@ -1,0 +1,10 @@
+{
+  "shadow": [
+    {
+      "light": "0px 1px 2px 0px rgba(24, 36, 41, 0.15), 0px 1px 3px 0px rgba(25, 36, 41, 0.10);"
+    },
+    {
+      "dark": "0px 1px 3px 0px rgba(24, 36, 41, 0.10), 0px 4px 8px 0px rgba(24, 36, 41, 0.12);"
+    }
+  ]
+}

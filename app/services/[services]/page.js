@@ -1,6 +1,5 @@
 import { getServices } from "../../../Firebase/readData";
 import { notFound } from "next/navigation";
-import Image from "next/image";
 const Services = async ({ params }) => {
   const data = await getServices(params.services);
   if (!data) {
